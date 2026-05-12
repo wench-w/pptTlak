@@ -1,0 +1,2 @@
+[console_scripts]
+ppt-talk-builder = ppt_talk_builder.cli:app

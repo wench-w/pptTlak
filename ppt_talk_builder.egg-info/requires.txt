@@ -1,0 +1,10 @@
+typer>=0.12.0
+python-pptx>=0.6.23
+moviepy<2.0,>=1.0.3
+pydub>=0.25.1
+mutagen>=1.47.0
+edge-tts>=6.1.0
+srt>=3.5.2
+tqdm>=4.66.4
+python-dotenv>=1.0.1
+streamlit>=1.39.0
